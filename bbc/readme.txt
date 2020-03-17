@@ -1,0 +1,1 @@
+First run bbc.py to scrap and create files. Then run irs.py to retrieve info.
